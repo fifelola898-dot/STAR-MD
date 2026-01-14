@@ -5,7 +5,7 @@
 <h1 align="center">STAR MD </h1>
 
 <img align="center" height="auto"
-src="[https://mrfrankk-cdn.hf.space/media/bot_image.jpg](https://files.catbox.moe/810h3a.png)">
+src="[https://mrfrankk-cdn.hf.space/media/bot_image.jpg]()">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+ZORO+MD+MADE+BY+SAYAN;MR+SAYAN+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
