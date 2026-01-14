@@ -66,7 +66,7 @@ src="https://files.catbox.moe/810h3a.png">
     </tr>
   </table>
 
-  <td><a href="https://www.instagram.com/dark_x_sayan?" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue"/></a></td>
+  <td><a href="https://www.instagram.com/Xchristech2?" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue"/></a></td>
 </div>
 
 <div align="center">
