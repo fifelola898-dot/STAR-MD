@@ -89,4 +89,4 @@ src="https://files.catbox.moe/810h3a.png">
 > `POWERED BY STAR`
 ##
 
-<a><img src='https://mrfrankk-cdn.hf.space/media/bot_image.jpg'/>
+<a><img src='https://files.catbox.moe/hpjf0h.png'/>
